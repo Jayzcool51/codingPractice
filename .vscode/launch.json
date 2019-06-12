@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Binary_Representation",
+            "request": "launch",
+            "mainClass": "Binary_Representation"
+        }
+    ]
+}
